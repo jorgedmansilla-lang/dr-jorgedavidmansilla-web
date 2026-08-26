@@ -1,0 +1,13 @@
+VERSIÓN MAESTRA — AJUSTE MEDICINA ESTÉTICA
+
+BLOQUEADO Y VERIFICADO SIN CAMBIOS:
+- Portada.
+- Cirugía / Microcirugía ambulatoria.
+- Flebología.
+
+CAMBIOS EN MEDICINA ESTÉTICA:
+- Se elimina la sección independiente Tratamientos destacados.
+- Se integran en Facial y corporal: Papada y cuello, Manchas actínicas, Mesoterapia capilar, Mesoterapia corporal y PRP, con sus explicaciones.
+- Debajo se mantienen más pequeños: Toxina botulínica, Ácido hialurónico, Bioestimuladores de colágeno, Mesoterapia facial e Hilos tensores.
+- Se agrega una explicación breve debajo de cada uno de esos cinco.
+- Se oculta visualmente el fragmento de numeración que todavía se veía en esos cinco gráficos, sin recortar el resto de la imagen.

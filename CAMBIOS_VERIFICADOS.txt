@@ -1,0 +1,9 @@
+ÚLTIMA VERSIÓN DE PÁGINA — CAMBIOS VERIFICADOS
+
+1. Medicina Estética conserva “Facial y corporal” y los cuadros Estética Facial / Estética Corporal.
+2. Se retiraron las dos fotos grandes de Hiperhidrosis y PRP de esa zona.
+3. El bloque “Conocé algunos de nuestros tratamientos” que estaba al final se trasladó a Medicina Estética.
+4. Ese bloque aparece una sola vez.
+5. Se eliminaron los números de Toxina, Ácido Hialurónico, Bioestimuladores, Mesoterapia Facial e Hilos Tensores.
+6. Después de los tres videos, la próxima sección es directamente Contacto / Solicitud de consulta.
+7. Mini flebectomía ambulatoria está en Flebología al lado de Escleroterapia con espuma.

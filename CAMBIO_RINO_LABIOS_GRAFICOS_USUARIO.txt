@@ -1,0 +1,6 @@
+Se reemplazaron únicamente los gráficos de:
+- Rinomodelación
+- Relleno de labios
+
+Se utilizaron los dos afiches aportados por el usuario, separados de la imagen combinada.
+No se modificó el HTML ni ninguna otra sección del master.

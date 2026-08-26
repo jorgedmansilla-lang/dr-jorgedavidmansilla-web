@@ -1,0 +1,9 @@
+Cambios de esta revisión:
+- Portada: sin cambios.
+- Cirugía General: queda Microcirugía ambulatoria con el gráfico aprobado de lesiones cutáneas y subcutáneas.
+- Flebología: se mantiene sin cambios el título, descripción y listado clínico.
+- Tratamientos flebológicos, en este orden:
+  1. Escleroterapia con espuma (imagen original, sin modificar).
+  2. Mini flebectomía ambulatoria (mismo tamaño visual).
+  3. Safenectomía y perforantes insuficientes, con cirugía o láser.
+- El resto de la página queda igual.

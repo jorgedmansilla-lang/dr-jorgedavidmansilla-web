@@ -1,0 +1,10 @@
+MASTER actualizado.
+Único cambio:
+- La sección "Sobre mí" usa el diseño aprobado por el usuario, con la matrícula integrada.
+- Se eliminó del gráfico únicamente la barra de navegación superior para no duplicarla.
+
+Verificado sin cambios:
+- Portada
+- Microcirugía ambulatoria
+- Flebología
+- Medicina Estética

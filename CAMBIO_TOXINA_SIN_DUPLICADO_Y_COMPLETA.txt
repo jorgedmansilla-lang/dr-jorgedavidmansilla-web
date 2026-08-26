@@ -1,0 +1,6 @@
+Corrección en Evolución y resultados:
+- Se eliminó la tarjeta duplicada de toxina botulínica.
+- Se dejó una sola imagen: la original aportada por el usuario.
+- La tarjeta ocupa una fila completa.
+- La imagen se muestra completa, sin recorte 16:10, para que se vean claramente ANTES y A LOS 5 DÍAS.
+- No se modificaron las demás secciones.

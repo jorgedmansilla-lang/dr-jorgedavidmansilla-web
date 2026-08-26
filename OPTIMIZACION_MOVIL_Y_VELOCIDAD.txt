@@ -1,0 +1,17 @@
+Optimización técnica sin rediseño.
+
+Cambios:
+- Imágenes PNG usadas convertidas a WebP de alta calidad.
+- Variantes de 720 px para celulares mediante srcset.
+- Lazy loading en imágenes fuera de la portada.
+- La foto de portada conserva carga prioritaria.
+- Se añadieron dimensiones de imágenes para evitar saltos durante la carga.
+- Videos configurados con preload="none" y playsinline.
+- Se eliminaron assets antiguos que ya no estaban siendo usados.
+- Ajustes móviles de navegación, legibilidad y áreas táctiles.
+- Se agregó content-visibility en navegadores compatibles.
+
+No se cambió ningún texto visible ni la estructura de secciones aprobadas.
+
+Archivos antiguos eliminados: 40
+Peso eliminado por archivos sin uso: 79.2 MB

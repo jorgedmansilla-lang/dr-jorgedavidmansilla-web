@@ -1,0 +1,8 @@
+BASE EXACTA: ULTIMA_VERSION_PAGINA_CIRUGIA_FLEBOLOGIA.zip
+
+- PORTADA: intacta.
+- CIRUGÍA: intacta salvo traslado de Microcirugías faciales desde Medicina Estética, si estaba allí.
+- FLEBOLOGÍA: intacta.
+- MEDICINA ESTÉTICA: se retira Microcirugías faciales.
+- MEDICINA ESTÉTICA: se retira Crioterapia/Escleroterapia si aparecía allí.
+- No se rediseñan ni se ponen verticales los demás tratamientos.

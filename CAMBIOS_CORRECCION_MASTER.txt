@@ -1,0 +1,13 @@
+CORRECCIÓN DEL MASTER
+
+Sin tocar:
+- Portada
+- Cirugía / Microcirugía ambulatoria
+- Flebología
+
+Se corrigió únicamente Medicina Estética:
+- Las 5 piezas de abajo pasan al mismo formato y tamaño visual que las de arriba.
+- Se eliminaron los remanentes de numeración en Toxina, Ácido hialurónico, Bioestimuladores,
+  Mesoterapia facial e Hilos tensores, generando copias limpias.
+- Se incorporó la imagen de Microcirugías faciales dentro de la grilla.
+- Se mantuvieron las explicaciones breves al pie de cada tratamiento.
